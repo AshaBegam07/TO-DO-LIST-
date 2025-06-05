@@ -16,44 +16,23 @@ A simple and efficient To-Do List application built using **React**, **HTML**, *
 
 ## Getting Started
 
-1. Clone the repository:
 
+
+## 🎥 Demo
+
+[Live Demo]  (https://to-d-mmfb.vercel.app/)
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+)
+- **State Management:** React `useState`, `useEffect`
+- **Storage:** LocalStorage
+
+1. Clone the repository:
+   
 ```bash
 git clone https://github.com/yourusername/todo-list-app.git
 cd todo-list-app
-
-Install dependencies:
-
-bash
-Copy
-Edit
-npm install
-Start the development server:
-
-bash
-Copy
-Edit
-npm start
-The app will run at http://localhost:3000.
-
-Author
-Asha Begam
-GitHub • LinkedIn
-
-License
-This project is licensed under the MIT License.
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you'd like to include screenshots, deploy the app online, or add a logo at the top.
-
-
-
-
 
 
 
